@@ -25,8 +25,9 @@ pip install python-pptx requests openpyxl tkinter
    ```sh
    python "PowerPoint to Kahoot Generator.py"
    ```
-3. A file dialog will appear. Choose a PowerPoint file or folder.
+3. A file dialog will appear. Choose a PowerPoint file or folder
 4. The script processes the file(s) and saves a new Excel file with questions.
+5. Alternatively, open the file in VS code, and just hit the run button. Ask copilot inside of VS code if it does not run.
 
 ## Uploading to Kahoot 📤
 1. Go to [Kahoot](https://create.kahoot.it/)
